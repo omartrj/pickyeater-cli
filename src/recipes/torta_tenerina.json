@@ -1,0 +1,35 @@
+{
+    "title": "Torta tenerina",
+    "link": "https://ricette.giallozafferano.it/Torta-tenerina.html",
+    "category": "Dolci",
+    "ingredients": [
+        {
+            "name": "Cioccolato fondente al 55%",
+            "optional": false
+        },
+        {
+            "name": "Burro",
+            "optional": false
+        },
+        {
+            "name": "Uova",
+            "optional": false
+        },
+        {
+            "name": "Zucchero",
+            "optional": false
+        },
+        {
+            "name": "Farina 00",
+            "optional": false
+        },
+        {
+            "name": "Zucchero a velo",
+            "optional": true
+        }
+    ],
+    "difficulty": "Facile",
+    "rating": 4.4,
+    "vegetarian": false,
+    "lactoseFree": false
+}

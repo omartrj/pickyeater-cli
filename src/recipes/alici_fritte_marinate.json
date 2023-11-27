@@ -1,0 +1,47 @@
+{
+    "title": "Alici fritte marinate",
+    "link": "https://ricette.giallozafferano.it/Alici-fritte-marinate.html",
+    "category": "Antipasti",
+    "ingredients": [
+        {
+            "name": "Acciughe (alici)",
+            "optional": false
+        },
+        {
+            "name": "Aceto di vino bianco",
+            "optional": false
+        },
+        {
+            "name": "Vino bianco",
+            "optional": false
+        },
+        {
+            "name": "Peperoncino fresco",
+            "optional": false
+        },
+        {
+            "name": "Aglio",
+            "optional": false
+        },
+        {
+            "name": "Cipollotto fresco",
+            "optional": false
+        },
+        {
+            "name": "Farina 00",
+            "optional": true
+        },
+        {
+            "name": "Sale fino",
+            "optional": true
+        },
+        {
+            "name": "Olio extravergine d'oliva",
+            "optional": true
+        }
+    ],
+    "difficulty": "Molto facile",
+    "rating": 4.0,
+    "vegetarian": false,
+    "lactoseFree": true
+}

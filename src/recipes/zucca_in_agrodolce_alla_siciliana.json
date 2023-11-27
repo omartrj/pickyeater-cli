@@ -1,0 +1,39 @@
+{
+    "title": "Zucca in agrodolce alla siciliana",
+    "link": "https://ricette.giallozafferano.it/Zucca-in-agrodolce-alla-siciliana.html",
+    "category": "Contorni",
+    "ingredients": [
+        {
+            "name": "Zucca rossa",
+            "optional": false
+        },
+        {
+            "name": "Olio extravergine d'oliva",
+            "optional": false
+        },
+        {
+            "name": "Zucchero",
+            "optional": false
+        },
+        {
+            "name": "Sale fino",
+            "optional": true
+        },
+        {
+            "name": "Aceto di vino bianco",
+            "optional": false
+        },
+        {
+            "name": "Aglio",
+            "optional": false
+        },
+        {
+            "name": "Menta",
+            "optional": true
+        }
+    ],
+    "difficulty": "Facile",
+    "rating": 4.0,
+    "vegetarian": true,
+    "lactoseFree": true
+}

@@ -1,0 +1,59 @@
+{
+    "title": "Zuppa di scarole e patate",
+    "link": "https://ricette.giallozafferano.it/Zuppa-di-scarole-e-patate.html",
+    "category": "Primi piatti",
+    "ingredients": [
+        {
+            "name": "Scarola (indivia)",
+            "optional": false
+        },
+        {
+            "name": "Patate",
+            "optional": false
+        },
+        {
+            "name": "Porri",
+            "optional": false
+        },
+        {
+            "name": "Brodo vegetale",
+            "optional": true
+        },
+        {
+            "name": "Aglio",
+            "optional": false
+        },
+        {
+            "name": "Peperoncino",
+            "optional": false
+        },
+        {
+            "name": "Olio extravergine d'oliva",
+            "optional": true
+        },
+        {
+            "name": "Sale fino",
+            "optional": true
+        },
+        {
+            "name": "Filoncini di pane",
+            "optional": false
+        },
+        {
+            "name": "Caciocavallo silano",
+            "optional": false
+        },
+        {
+            "name": "Olio extravergine d'oliva",
+            "optional": true
+        },
+        {
+            "name": "Rosmarino",
+            "optional": true
+        }
+    ],
+    "difficulty": "Facile",
+    "rating": 4.5,
+    "vegetarian": true,
+    "lactoseFree": false
+}

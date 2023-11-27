@@ -1,0 +1,67 @@
+{
+    "title": "'Mpanatigghi",
+    "link": "https://ricette.giallozafferano.it/Mpanatigghi.html",
+    "category": "Dolci",
+    "ingredients": [
+        {
+            "name": "Farina 00",
+            "optional": false
+        },
+        {
+            "name": "Strutto",
+            "optional": false
+        },
+        {
+            "name": "Zucchero",
+            "optional": false
+        },
+        {
+            "name": "Uova",
+            "optional": false
+        },
+        {
+            "name": "Tuorli",
+            "optional": false
+        },
+        {
+            "name": "Marsala",
+            "optional": false
+        },
+        {
+            "name": "Ammoniaca per dolci",
+            "optional": false
+        },
+        {
+            "name": "Sale fino",
+            "optional": false
+        },
+        {
+            "name": "Manzo",
+            "optional": false
+        },
+        {
+            "name": "Cioccolato",
+            "optional": false
+        },
+        {
+            "name": "Farina di mandorle",
+            "optional": false
+        },
+        {
+            "name": "Zucchero",
+            "optional": false
+        },
+        {
+            "name": "Cannella in polvere",
+            "optional": true
+        },
+        {
+            "name": "Chiodi di garofano macinati",
+            "optional": true
+        }
+    ],
+    "difficulty": "Facile",
+    "rating": 4.0,
+    "vegetarian": false,
+    "lactoseFree": false
+}

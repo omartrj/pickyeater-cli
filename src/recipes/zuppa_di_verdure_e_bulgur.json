@@ -1,0 +1,47 @@
+{
+    "title": "Zuppa di verdure e bulgur",
+    "link": "https://ricette.giallozafferano.it/Zuppa-di-verdure-e-bulgur.html",
+    "category": null,
+    "ingredients": [
+        {
+            "name": "Bulgur",
+            "optional": false
+        },
+        {
+            "name": "Cavolfiore",
+            "optional": false
+        },
+        {
+            "name": "Patate",
+            "optional": false
+        },
+        {
+            "name": "Pomodori di Pachino",
+            "optional": false
+        },
+        {
+            "name": "Sedano",
+            "optional": false
+        },
+        {
+            "name": "Cipolle dorate",
+            "optional": false
+        },
+        {
+            "name": "Carote",
+            "optional": false
+        },
+        {
+            "name": "Olio extravergine d'oliva",
+            "optional": true
+        },
+        {
+            "name": "Sale fino",
+            "optional": true
+        }
+    ],
+    "difficulty": "Facile",
+    "rating": 4.8,
+    "vegetarian": true,
+    "lactoseFree": true
+}
